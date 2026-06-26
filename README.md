@@ -328,31 +328,31 @@ Quick-Commerce-Analytics
 
 ## KPI Dashboard
 
-![KPI Dashboard](Excel/KPI_Dashboard.png)
+![KPI Dashboard](Excel/01_KPI_Dashboard.png)
 
 ---
 
 ## Geographic Analysis
 
-![Geographic Analysis](Excel/Geographic_Analysis.png)
+![Geographic Analysis](Excel/02_Geographic_Analysis.png)
 
 ---
 
 ## Product Analysis
 
-![Product Analysis](Excel/Product_Analysis.png)
+![Product Analysis](Excel/03_Product_Analysis.png)
 
 ---
 
 ## Customer & Payment Analysis
 
-![Customer Payment Analysis](Excel/Customer_Payment_Analysis.png)
+![Customer & Payment Analysis](Excel/04_Customer_Payment_Analysis.png)
 
 ---
 
 ## Business Recommendations
 
-![Business Recommendations](Excel/Business_Recommendations.png)
+![Business Recommendations](Excel/05_Business_recommendations.png)
 
 ---
 
